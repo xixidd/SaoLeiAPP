@@ -16,7 +16,7 @@ namespace SaoLeiAPP
             isCheck = false;
             isMark = false;
 
-            int a = 0;
+            int asas = 0;
         }
 
         private int areaNO;
