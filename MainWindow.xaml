@@ -11,6 +11,7 @@
             <Setter Property="FontFamily" Value="黑体"/>
             <Setter Property="FontWeight" Value="normal"></Setter>
         </Style>
+        
     </Window.Resources>
     <Viewbox Name="myViewBox1" Stretch="UniformToFill" >
         <Grid Height="384" Width="683">
